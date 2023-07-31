@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aKUGPgGtHJJiK7uGrlPbLYizLdTbdroZBUc6PFfoCkfRw+9FR7nCC8K/3Wfqz4lpXxgwOXBbOmQ+PBsHy6JorA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\centu\\source\\repos\\csharpassault\\csharpassault\\csharpassault.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\centu\\.nuget\\packages\\memory.dll.x64\\1.2.24\\memory.dll.x64.1.2.24.nupkg.sha512"
+  ],
+  "logs": []
+}
